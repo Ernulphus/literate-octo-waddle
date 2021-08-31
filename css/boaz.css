@@ -1,0 +1,21 @@
+body {
+  font-family: Courier New;
+  background-color: purple;
+  color: yellow;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: hotpink;
+  background-color: lavender;
+  padding: 10px;
+}
+
+#fav-num {
+	color: hotpink;
+}
+
+#pronouns {
+  color: magenta;
+}
