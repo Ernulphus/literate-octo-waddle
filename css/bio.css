@@ -1,7 +1,7 @@
 body {
   font-family: Courier New;
-  background-color: purple;
-  color: yellow;
+  background-color: #4D9078;
+  color: #F78154;
   text-align: center;
 }
 
@@ -12,10 +12,22 @@ a {
   padding: 10px;
 }
 
+div {
+  padding: 5px;
+}
+
+img {
+  width: 40%;
+}
+
+p {
+  background-color: black;
+}
+
 #fav-num {
 	color: hotpink;
 }
 
 #pronouns {
-  color: magenta;
+  color: #B4436C;
 }
