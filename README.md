@@ -2,8 +2,7 @@
 Due 9/15/21  
 
 Boaz Kaufman - Ernulphus  
-
-https://github.com/Ernulphus/literate-octo-waddle  
+https://ernulphus.github.io/literate-octo-waddle/
 
 Create a website for a zoo or aquarium.  
 The homepage should have links to at least four animals.  

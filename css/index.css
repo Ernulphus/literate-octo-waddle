@@ -1,13 +1,13 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: magenta;
+  background-color: #F78154;
   text-align: center;
 }
 
 a {
   text-decoration: none;
-  color: hotpink;
-  background-color: lavender;
+  color: #F2C14E;
+  background-color: #B4436C;
   padding: 10px;
 }
 
@@ -15,11 +15,12 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  width: 70%;
 
 }
 
 .link {
   margin: 20px;
+  padding: 10px;
 }
 
