@@ -11,6 +11,7 @@ a {
   padding: 10px;
 }
 
+/* Make links change color when passed over */
 a:hover {
   color: #B4436C;
   background-color: #F2C14E;
@@ -30,6 +31,9 @@ img {
   padding: 10px;
 }
 
+.sampic, .krispic, .gobpic {
+  width: 60%;
+}
 
 /* From here on is all lifted from W3schools */
 
@@ -66,6 +70,13 @@ img {
 /* Position the "next button" to the right */
 .next {
   right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* Position the "prev button" to the left */
+/* I actually added this! Weird that W3 didn't have it. */
+.prev {
+  left: 0;
   border-radius: 3px 0 0 3px;
 }
 
