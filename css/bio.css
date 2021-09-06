@@ -12,6 +12,12 @@ a {
   padding: 10px;
 }
 
+a:hover {
+  color: lavender;
+  background-color:hotpink;
+  padding: 10px;
+}
+
 div {
   padding: 5px;
 }
